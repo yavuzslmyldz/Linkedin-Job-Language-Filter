@@ -7,3 +7,7 @@ LinkedIn Job Language Filter is a usefull chrome extension for filtering linkedi
    your preferred languages.
 
    Webstore Link -> https://chrome.google.com/webstore/detail/linkedin-job-language-fil/geicbkkbdgfldfhcgoblppbipnaapapb
+
+
+   
+![ss1](https://github.com/yavuzslmyldz/Linkedin-Job-Language-Filter/assets/101026067/0cc8bb50-378d-40d7-ab88-0241bc6074c1)
