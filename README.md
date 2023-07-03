@@ -11,3 +11,6 @@ LinkedIn Job Language Filter is a usefull chrome extension for filtering linkedi
 
    
 ![ss1](https://github.com/yavuzslmyldz/Linkedin-Job-Language-Filter/assets/101026067/0cc8bb50-378d-40d7-ab88-0241bc6074c1)
+![ss2](https://github.com/yavuzslmyldz/Linkedin-Job-Language-Filter/assets/101026067/7483ec25-6b04-4d39-b7bd-b79761cd535d)
+![ss3](https://github.com/yavuzslmyldz/Linkedin-Job-Language-Filter/assets/101026067/1cb202cf-bfbb-497b-beed-639eed776bd3)
+![ss4](https://github.com/yavuzslmyldz/Linkedin-Job-Language-Filter/assets/101026067/5f1e7f39-d492-4698-88b9-bb4122f6de95)
